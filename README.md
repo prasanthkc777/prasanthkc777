@@ -6,9 +6,9 @@
   </samp>
 </p>
 
-
+<p align="center">
 <img align="center" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
-
+</p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=prasanthkc777&show_icons=true&count_private=true&theme=dark"/>
 </p>
