@@ -9,6 +9,9 @@
 
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tanaytoshniwal&show_icons=true&count_private=true&theme=dark"/>
+</p>
 
 
 ## :pencil2: My Works: :trophy:       
