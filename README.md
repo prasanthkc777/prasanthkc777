@@ -14,13 +14,13 @@
 </p>
 
 
-## :pencil2: My Works: :trophy:       
+## :robot: My Works: :trophy:       
 - [Hostel pass management system](https://github.com/prasanthkc777/Hostel_pass_management_system)
 - [grocery delivery system](https://github.com/prasanthkc777/GroceryDeliverySystem)
 - [crud application](https://github.com/prasanthkc777/Crud_application)
 - [food app](https://github.com/prasanthkc777/foodapp)
 
-- ### :robot: visit my artpage :octocat:
+- ### :pencil2: visit my artpage :octocat:
   -  [Art for life](https://art4lyf.in/)
 
 
