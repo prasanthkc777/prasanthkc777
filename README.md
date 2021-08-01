@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="100%">
+  <img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" width="50%">
   <br><br>
   <samp>
-    Hi,<img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="75px"> I'm Vimal kumar Web designer and developer working on <a href="https://github.com/letskhabar">@Letskhabar :octocat:</a> to support open source. Student at IIIT Ranchi :india:
+    Hi,<img src="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif" width="75px"> I'm Prasanth kc Web designer and developer , interested in UI & UX design. Familiar with python & flask. Currently pursuing my BE degree in <a href="http://www.periit.com/" >PERI IT</a>
   </samp>
 </p>
 
