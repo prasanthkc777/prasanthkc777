@@ -21,7 +21,8 @@
 - [food app](https://github.com/prasanthkc777/foodapp)
 
 - ### :pencil2: visit my artpage :octocat:
-  -  [Art for life](https://art4lyf.in/)
+  -  [Art for life - website](https://art4lyf.in/)
+  -  [Insta art page](https://instagram.com/_art4lyf_?utm_medium=copy_link)
 
 
  ## :trophy: Languages and Tools: :robot:
